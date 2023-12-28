@@ -1,4 +1,6 @@
 # Getting Started with Movie-Ology App
+## Requirements Covered
+I've addressed all the criteria for this responsive web application to the best of my ability, except for figuring out how to prepend sections when scrolling up. The generation of movie sections upon scrolling down is functioning correctly, and the genre-based filtration is also working as intended.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -71,4 +71,8 @@
     .genre-button{
         width: 125px;
     }
+
+    .nav h1{
+        text-align: center;
+    }
 }
